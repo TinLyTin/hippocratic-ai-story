@@ -148,8 +148,8 @@ The system will:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/TinLyTin/hippocratic-ai-story-assignment.git
-cd hippocratic-ai-story-assignment
+git clone https://github.com/TinLyTin/hippocratic-ai-story.git
+cd hippocratic-ai-story
 ```
 
 ### 2. Install dependencies
