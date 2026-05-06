@@ -22,7 +22,7 @@ from openai import OpenAI
 # export OPENAI_API_KEY="your-api-key-here"
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+MODEL = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")
 QUALITY_THRESHOLD = 8
 
 
