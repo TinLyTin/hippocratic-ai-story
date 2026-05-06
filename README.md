@@ -181,13 +181,14 @@ python main.py
 ## Files in This Repository
 
 ```text
-hippocratic-ai-story-assignment/
+hippocratic-ai-story/
 │
-├── main.py              # Main Python program
-├── README.md            # Project overview and instructions
-├── requirements.txt     # Python dependencies
-├── .gitignore           # Files excluded from Git tracking
-└── block_diagram.md     # Optional architecture diagram
+├── README.md            # Explains the project and evaluation criteria
+├── block_diagram.md     # Shows the agent workflow
+├── main.py              # Main assignment code
+├── requirements.txt     # Dependency list
+├── sample_output.md     # Shows sample prompting result
+└── .gitignore           # Protects environment/API-key related files
 ```
 
 ## Safety Considerations
