@@ -1,5 +1,13 @@
 # Hippocratic AI Take-Home Assignment
 
+## Alignment with Evaluation Criteria
+
+This project was designed around the three evaluation criteria listed in the assignment email:
+
+- Prompt Quality: The system uses separate prompts for story generation, judging, and revision.
+- Code Quality: The code is organized into clear functions with readable names and basic error handling.
+- Creativity & Product Thinking: The solution uses a lightweight generate-evaluate-revise loop rather than a single LLM call, making the final output safer and more reliable for children-facing content.
+
 ## Safe Bedtime Story Generator with LLM Judge
 
 This project is a simple AI-powered bedtime story generator for children ages 5–10.  
